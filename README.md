@@ -111,38 +111,3 @@ ROC Curve & AUC Score
 
 The best performing model achieved high accuracy and strong recall for malignant cases, which is crucial in medical diagnosis.
 
-(You can insert your final accuracy here, e.g., 98.2% Accuracy with Random Forest)
-
-📂 Project Structure
-Breast-Cancer-Detection/
-│
-├── data/
-│   └── breast_cancer.csv
-│
-├── notebooks/
-│   └── breast_cancer_analysis.ipynb
-│
-├── src/
-│   ├── preprocessing.py
-│   ├── model_training.py
-│   └── evaluation.py
-│
-├── requirements.txt
-└── README.md
-🚀 How to Run the Project
-
-Clone the repository:
-
-git clone https://github.com/yourusername/breast-cancer-detection.git
-
-Navigate to the project folder:
-
-cd breast-cancer-detection
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-Run the notebook or Python script.
-
-📌 Future Improvements
